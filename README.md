@@ -38,6 +38,7 @@ prancheta para guardar cópias.
 - `js/retrato.js`: retrato guiado em 12 etapas
 - `js/atelie.js`: ateliê digital (desenho em camadas sobre a foto)
 - `js/grade.js`: método da grade
+- `js/papel.js`: tipos de papel e gramaturas (75 a 220 g/m²)
 - `js/estudo.js`: folhas de estudo (construção, proporções e medidas, planos, luz e sombra)
 
 ## Publicação
